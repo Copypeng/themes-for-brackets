@@ -61,7 +61,7 @@
     float: right;
     position: relative;
     min-height: 100%;
-    font-family: 'SourceSansPro', Helvetica, Arial, "Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-family: Helvetica, Arial,"WenQuanYi Micro Hei","Meiryo UI", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
     width: 250px;
     max-width: 50%;
     overflow: hidden;
